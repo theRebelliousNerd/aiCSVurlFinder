@@ -1,0 +1,5 @@
+Organization Name,Website URL,Notes
+PrefillTarget1,,Should get domain1.com
+PrefillTarget2,www.existing.com,Should keep existing
+NoContactOrg,,No corresponding contact
+GenericDomainOrg,,Will get generic email

@@ -1,0 +1,8 @@
+FirstName,LastName,Email,Title,Accounts::::ORG_NAME
+John,Doe,john.doe@alphadomain.com,Manager,Accounts::::Alpha Corp
+Jane,Smith,jane.smith@betaalready.com,Analyst,Accounts::::Beta Ltd
+Alice,Brown,alice@gammadomain.net,Director,Accounts::::Gamma Inc
+Bob,Green,bob.green@gmail.com,Specialist,Accounts::::Delta Solutions
+Carol,White,carol@epsilon.org,CEO,Accounts::::Epsilon Services
+David,Black,david.black@another.org,VP,Accounts::::Zeta Co
+Eve,Blue,eve.blue@gammadomain.net,Rep,Accounts::::Gamma Inc

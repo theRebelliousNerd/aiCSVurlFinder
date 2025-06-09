@@ -1,0 +1,5 @@
+{
+  "name": "AI CSV URL Finder",
+  "description": "Upload a CSV with organization names. The AI uses web search (Gemini API with grounding) to find their official websites and adds them to a new column. Download the enriched CSV.",
+  "requestFramePermissions": []
+}
